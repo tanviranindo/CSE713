@@ -1,6 +1,6 @@
 ### Youtube
 
-Link to unlisted youtube video: [https://youtube.com/.....](https://youtube.com/.....)
+Link to unlisted youtube video: [https://youtu.be/722LqurkKaQ](https://youtu.be/722LqurkKaQ)
 
 ### Slide
 
@@ -8,7 +8,6 @@ Public link to slide: [https://docs.google.com/presentation/d/1qwibMptMuUwoo9h02
 
 ### CRIXET Link
 Project workspace link: [https://app.crixet.com/?u=9e7bb174-a0c3-498c-acd4-3d0cb88e71c9&pg=1&m=main.tex&d=7](https://app.crixet.com/?u=9e7bb174-a0c3-498c-acd4-3d0cb88e71c9&pg=1&m=main.tex&d=7)
-
 
 ### Paper title:
 
